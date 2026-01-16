@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "homeTitle": "Gym Genius — Support & Privacy",
+    "homeDescription": "Support and privacy information for the Gym Genius workout tracking app.",
+    "privacyTitle": "Gym Genius — Privacy Policy",
+    "privacyDescription": "Read how Gym Genius may collect and use data linked to you.",
+    "supportTitle": "Gym Genius — Support",
+    "supportDescription": "Contact Gym Genius support and prepare helpful details."
+  },
+  "nav": {
+    "ariaLabel": "Primary",
+    "home": "Home",
+    "privacy": "Privacy Policy",
+    "support": "Support"
+  },
+  "language": {
+    "label": "Language",
+    "en": "EN",
+    "ru": "RU"
+  },
+  "common": {
+    "backHome": "Back to Home"
+  },
+  "footer": {
+    "copyright": "© 2026 Gym Genius",
+    "privacy": "Privacy Policy",
+    "support": "Support"
+  },
+  "home": {
+    "heroTitle": "Simple, fast workout logging.",
+    "heroSubtitle": "Build consistency and get serious stats that keep you progressing.",
+    "cards": {
+      "privacy": {
+        "title": "Privacy Policy",
+        "text": "See how data may be collected and linked to you."
+      },
+      "support": {
+        "title": "Support",
+        "text": "Get help, ask a question, or report a bug."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "effectiveDate": "Effective date: January 15, 2026",
+    "intro": "Gym Genius is a workout tracking app. This privacy policy explains what data may be collected and how it relates to you, aligned with Apple App Store privacy categories.",
+    "dataLinkedTitle": "Data Linked to You",
+    "dataLinkedIntro": "The following data may be collected and linked to your identity:",
+    "dataTypes": {
+      "identifiers": "Identifiers",
+      "userId": "User ID",
+      "diagnostics": "Diagnostics",
+      "crashData": "Crash Data",
+      "performanceData": "Performance Data",
+      "otherDiagnosticData": "Other Diagnostic Data",
+      "healthFitness": "Health & Fitness",
+      "fitness": "Fitness",
+      "usageData": "Usage Data",
+      "productInteraction": "Product Interaction"
+    },
+    "clarification": "Data collection can depend on app usage and device settings. This page is meant to be transparent and easy to read. For questions, contact",
+    "contactLink": "support"
+  },
+  "support": {
+    "title": "Support",
+    "contactPrefix": "For support, email",
+    "beforeEmailTitle": "Before you email",
+    "checklist": {
+      "appVersion": "App version",
+      "iosVersion": "iOS version",
+      "deviceModel": "Device model",
+      "steps": "Steps to reproduce (if reporting a bug)"
+    }
+  }
+}
